@@ -1,4 +1,4 @@
-# ecoinBlockchainSQL
+# kueiBlockchainSQL
 BlockchainSQL是一个公共服务,将区块链数据写入数据库中(MySQL/Mongodb等),为其他服务提供高效的查询/统计能力.
 
 ![BlockchainSQL](/docs/images/blockchainSQL.png)
